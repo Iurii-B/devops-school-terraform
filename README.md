@@ -1,1 +1,1 @@
-# devops-school-terraform
+## Examples of Terraform
